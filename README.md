@@ -2,9 +2,6 @@
 Advanced Digital Projects Laboratory
 Project: Digital Target System
 
-
-December 10, 2023 - Andrew Sherwin
-
 The Digital Target System folder contains 6 files:
 1. Digital Target System Report.pdf
 	- This contains the report documenting the design of the product. 
@@ -18,3 +15,6 @@ The Digital Target System folder contains 6 files:
 	- This contains Rev8 PCB. A version of the PCB without switches. Power is from the barrel-jack ONLY. 
 6. Rev10 KiCad Files (folder)
 	- This contains Rev10 PCB. A versino of the PCB wit switches. Power can be from barrel-jack or alternate power source such as a DC Power Supply. 
+
+
+Updated: December 10, 2023 19:24 CST - Andrew Sherwin
